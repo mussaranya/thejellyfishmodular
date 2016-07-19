@@ -16,6 +16,7 @@ ShareAlike — If you remix, transform, or build upon the material, you must dis
 
 ////////The files are cread with Kicad////////////
 
-All the files are created by Àlex Ballester (unless noticed) @ Plankton Electronics
+The schematics have been designed by Àlex Ballester @ Plankton Electronics.
+The sync code have been coded by Albert Farrés.
 
 Àlex Ballester www.planktonelectronics.com
