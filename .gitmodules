@@ -1,0 +1,3 @@
+[submodule "avr_jelly_sync"]
+	path = syncfunction
+	url = https://github.com/albertfc/avr_jelly_sync.git
